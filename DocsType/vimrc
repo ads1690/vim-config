@@ -1,0 +1,12 @@
+set ts=2
+set nowrap
+set number
+set smartindent
+set shiftwidth=2 
+colorscheme koehler
+syntax on
+nmap <F8> :TagbarToggle<CR>
+nmap <F7> :NERDTree<CR>
+
+filetype plugin on
+set ofu=syntaxcomplete#Complete
