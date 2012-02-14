@@ -10,3 +10,5 @@ nmap <F7> :NERDTree<CR>
 
 filetype plugin on
 set ofu=syntaxcomplete#Complete
+
+set foldmethod=syntax
