@@ -1,3 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =1
-let g:netrw_dirhist_1='/home/yida/humanoid/merge-test/Player/Vision'
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/Yida/ros/orocos_kinematics_dynamics/orocos_kdl'
+let g:netrw_dirhist_2='/Users/Yida/Projects/UPennalizers/Tools/Matlab/colortable'
+let g:netrw_dirhist_3='/Users/Yida/.vim'
+let g:netrw_dirhist_4='/Users/Yida/Projects/UPennalizers/Tools/Matlab/colortable'
