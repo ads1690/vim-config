@@ -1,3 +1,0 @@
-tagbar.vmb: call delete('/home/yida/.vim/autoload/tagbar.vim')|call delete('/home/yida/.vim/doc/tagbar.txt')|call delete('/home/yida/.vim/plugin/tagbar.vim')|call delete('/home/yida/.vim/syntax/tagbar.vim')
-supertab.vba: call delete('/home/yida/.vim/doc/supertab.txt')|call delete('/home/yida/.vim/plugin/supertab.vim')
-tagbar.vmb: call delete('/home/yida/.vim/autoload/tagbar.vim')|call delete('/home/yida/.vim/doc/tagbar.txt')|call delete('/home/yida/.vim/plugin/tagbar.vim')|call delete('/home/yida/.vim/syntax/tagbar.vim')
