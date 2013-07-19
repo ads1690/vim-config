@@ -5,6 +5,7 @@ set smartindent
 set smarttab
 set expandtab
 set autoindent
+set paste
 
 set shiftwidth=2 
 colorscheme koehler 
