@@ -1,4 +1,4 @@
-set tabstop=2
+set tabstop=3
 set nowrap
 set number
 set smartindent
@@ -7,7 +7,7 @@ set expandtab
 set autoindent
 set paste
 
-set shiftwidth=2 
+set shiftwidth=3 
 colorscheme koehler 
 set background=dark
 set incsearch
